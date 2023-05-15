@@ -1,6 +1,8 @@
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
 
 <h1 align="center">hello there 👋, I'm zoe</h1>
+
+you must be my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) guest.
 
 - 📫 How to reach me:  **zoe20180314@gmail.com** 
 
