@@ -2,7 +2,7 @@
 
 <h1 align="center">hello there 👋, I'm zoe</h1>
 
-you must be my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) guest.
+<h2 align="center">you must be my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) guest.</h2>
 
 - 📫 How to reach me:  **zoe20180314@gmail.com** 
 
