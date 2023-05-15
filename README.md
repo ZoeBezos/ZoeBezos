@@ -1,7 +1,8 @@
 
 
 <h1 align="center">hello there 👋, I'm zoe</h1>
-I am also a pieces of shit.
+
+
 - 📫 How to reach me:  **zoe20180314@gmail.com** 
 
 <a href="https://github.com/zoebezos">
