@@ -1,9 +1,7 @@
 
 
 <h1 align="center">hello there 👋, I'm zoe</h1>
-
-<h2 align="center">you must be my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) guest.</h2>
-
+I am also a pieces of shit.
 - 📫 How to reach me:  **zoe20180314@gmail.com** 
 
 <a href="https://github.com/zoebezos">
