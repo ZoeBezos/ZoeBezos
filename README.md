@@ -2,8 +2,6 @@
 
 <h1 align="center">hello there 👋, I'm zoe</h1>
 
-- 🌏 I'm working on a new project: **alsoai.com**, in my spare time, welcome to join me!
-
 - 📫 How to reach me:  **zoe20180314@gmail.com** 
 
 <a href="https://github.com/zoebezos">
