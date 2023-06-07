@@ -4,12 +4,13 @@
 
 📫 feel free to reach me:  **zoe20180314@gmail.com** 
 
-<div>
+<div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoebezos&theme=graywhite">
 </div>
-<div style="display: flex;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zoebezos&theme=graywhite&utcOffset=8">
+<div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zoebezos&theme=graywhite">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zoebezos&theme=graywhite&utcOffset=8">
+    
 </div>
 
 ---
