@@ -2,6 +2,8 @@
 
 <h1 align="center">hello there 👋, I'm zoe</h1>
 
+📫 feel free to reach me:  **zoe20180314@gmail.com** 
+
 <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoebezos&theme=buefy">
 </div>
