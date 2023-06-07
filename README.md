@@ -1,6 +1,6 @@
 <img alt="profile views" align="right" src="https://komarev.com/ghpvc/?username=ouoholly&color=yellow">
 
-<h1 align="center">hello there 👋, I'm zoe</h1>
+<h1 align="center">hi there 👋, I'm zoe</h1>
 
 📫 feel free to reach me:  **zoe20180314@gmail.com** 
 
