@@ -3,13 +3,11 @@
 <h1 align="center">hello there 👋, I'm zoe</h1>
 
 
-<a href="https://github.com/zoebezos">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoebezos&show_icons=true&locale=en" alt="lerogo" height="180" style="margin: 5px; margin-bottom: 20px;" /></a>
-<a href="https://github.com/zoebezos">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoebezos&layout=compact&langs_count=20&locale=en" alt="zoebezos" height="180"  style="margin: 5px; margin-bottom: 20px;"/>
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoebezos&theme=buefy)
 
-## My Activities
-<img alt="github-profile-summary-cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoebezos&theme=vue" width="100%">
+<div style="display: flex;">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zoebezos&theme=buefy&utcOffset=8);
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zoebezos&theme=buefy)
+</div>
 
 ---
