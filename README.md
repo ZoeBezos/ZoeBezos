@@ -12,6 +12,6 @@
 </a>
 
 ## My Activities
-<img alt="github-profile-summary-cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ouoholly&theme=nord_dark" width="100%">
+<img alt="github-profile-summary-cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoebezos&theme=nord_dark" width="100%">
 
 ---
